@@ -55,7 +55,8 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "^3.4.1",
-    "typescript": "^3.7.5"
+    "typescript": "^3.7.5",
+    "@types/babel__core": "^7.20.1"
   },
   "files": [
     "dist"

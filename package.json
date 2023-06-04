@@ -1,6 +1,6 @@
 {
   "name": "request-dispatch",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "make request and dispatch from redux to react and react-native",
   "author": "reimibeta",
   "license": "MIT",
